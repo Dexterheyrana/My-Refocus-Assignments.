@@ -57,3 +57,8 @@ function newSetOfNumber(num1, num2) {
 // showData();
 // newSetOfNumber (500,20);
 // showData();
+
+console.log(add(1, 2));
+console.log(Subtract(10, 5));
+console.log(Multiply(10, 2));
+console.log(Divide(100, 25));
